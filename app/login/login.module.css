@@ -1,0 +1,13 @@
+.ul_tag {
+  display: flex;
+  align-items: center;
+}
+
+.li_tag {
+  list-style-type: none;
+  margin-left: 2%;
+}
+
+.li_tag h1 {
+  margin: 0;
+}
